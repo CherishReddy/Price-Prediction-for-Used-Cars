@@ -1,0 +1,2 @@
+# Price-Prediction-for-Used-Cars
+The purpose of this analysis is to develop a price predicting model for the used-car market. For this purpose, data fetched from Craigslist. This data consists of 22 variables with an estimated 500,000 observations. In order to determine variable significance and accurate predictions, three models were conducted. The models implemented in the project are Multiple Linear Regression, K-Nearest Neighbors, and Classification and Regression Tree The best model out of these was identified to be multiple linear regression.
